@@ -1,5 +1,7 @@
-fastapi
-uvicorn
-crewai
-langchain
-openai
+fastapi==0.110.0
+uvicorn==0.27.1
+crewai==0.24.7
+langchain==0.1.16
+langchain-openai==0.0.6
+openai==1.30.1
+
